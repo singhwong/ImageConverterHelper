@@ -1,0 +1,29 @@
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\bin\x64\Debug\net5.0-windows10.0.19041.0\App.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\bin\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\bin\x64\Debug\net5.0-windows10.0.19041.0\Pages\Home.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x64\ucrtbased.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\Images\SplashScreen.scale-200.png
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\Images\LockScreenLogo.scale-200.png
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\Images\Square150x150Logo.scale-200.png
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\Images\Square44x44Logo.scale-200.png
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\Images\StoreLogo.png
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\Images\Wide310x150Logo.scale-200.png
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\resources.pri
+C:\Users\singh\.nuget\packages\microsoft.windowsappsdk.foundation\1.0.0-experimental1\lib\net5.0-windows10.0.17763.0\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\singh\.nuget\packages\microsoft.windowsappsdk.interactiveexperiences\1.0.0-experimental1\lib\net5.0-windows10.0.17763.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\singh\.nuget\packages\microsoft.windowsappsdk.winui\1.0.0-experimental1\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\singh\.nuget\packages\microsoft.windowsappsdk.foundation\1.0.0-experimental1\runtimes\lib\native\arm64\Microsoft.WindowsAppSDK.Bootstrap.dll
+C:\Users\singh\.nuget\packages\microsoft.windowsappsdk.foundation\1.0.0-experimental1\runtimes\lib\native\x64\Microsoft.WindowsAppSDK.Bootstrap.dll
+C:\Users\singh\.nuget\packages\microsoft.windowsappsdk.foundation\1.0.0-experimental1\runtimes\lib\native\x86\Microsoft.WindowsAppSDK.Bootstrap.dll
+C:\Users\singh\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\singh\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\WinRT.Runtime.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\bin\x64\Debug\net5.0-windows10.0.19041.0\PictureConverterHelper.deps.json
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\bin\x64\Debug\net5.0-windows10.0.19041.0\PictureConverterHelper.runtimeconfig.dev.json
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\obj\x64\Debug\net5.0-windows10.0.19041.0\App.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\obj\x64\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\obj\x64\Debug\net5.0-windows10.0.19041.0\Pages\Home.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\obj\x64\Debug\net5.0-windows10.0.19041.0\apphost.exe
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\bin\x64\Debug\net5.0-windows10.0.19041.0\PictureConverterHelper.runtimeconfig.json
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\bin\x64\Debug\net5.0-windows10.0.19041.0\PictureConverterHelper.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper\bin\x64\Debug\net5.0-windows10.0.19041.0\PictureConverterHelper.pdb

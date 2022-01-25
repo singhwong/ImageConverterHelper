@@ -56,7 +56,7 @@ namespace PictureConverterHelper.Pages
         private async void Button_Tapped(object sender, TappedRoutedEventArgs e)
         {
             string resultStr = default;
-            if (_file != null)
+            if (_file != null&& !string.IsNullOrEmpty(FileTypeTb.Text))
             {
                 try
                 {
@@ -70,8 +70,8 @@ namespace PictureConverterHelper.Pages
                         FileSavePicker savePicker = new();
                         savePicker.SuggestedStartLocation = PickerLocationId.PicturesLibrary;
 
-                        savePicker.FileTypeChoices.Add("Image", new List<string> { ".png" });
-                        savePicker.SuggestedFileName = "New Image";
+                        savePicker.FileTypeChoices.Add("Image", new List<string> { $".{FileTypeTb.Text}" });
+                        savePicker.SuggestedFileName = _file.DisplayName;
 
                         WinRT.Interop.InitializeWithWindow.Initialize(savePicker, m_hwnd);
                         var file = await savePicker.PickSaveFileAsync();

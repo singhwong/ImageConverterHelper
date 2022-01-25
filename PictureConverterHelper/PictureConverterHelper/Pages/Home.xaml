@@ -19,7 +19,11 @@
             <TextBlock Text="已选定文件：" Grid.Column="1" VerticalAlignment="Center"/>
             <TextBlock x:Name="displayTb" Grid.Column="2" VerticalAlignment="Center" Foreground="Gold"/>
         </StackPanel>
-        <Button Content="转换为png" Grid.Row="1" Tapped="Button_Tapped"/>
+        <StackPanel Grid.Row="1"  Orientation="Horizontal" Spacing="10">
+            <TextBox x:Name="FileTypeTb" PlaceholderText="文件后缀（例如：jpeg）"/>
+            <Button Content="开始转换"  Tapped="Button_Tapped"/>
+        </StackPanel>
+        
         <Button Content="另存为" Grid.Row="2" Tapped="Button_Tapped_1"/>
         <ContentDialog x:Name="resultDialog" IsPrimaryButtonEnabled="True" PrimaryButtonText="浏览" CloseButtonText="关闭">
             

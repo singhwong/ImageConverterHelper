@@ -1,0 +1,43 @@
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\App.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\MainWindow.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\Pages\Home.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\Microsoft.ApplicationModel.Resources.Projection.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\Microsoft.InteractiveExperiences.Projection.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\Microsoft.WinUI.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\runtimes\lib\native\arm64\Microsoft.WindowsAppSDK.Bootstrap.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\runtimes\lib\native\x64\Microsoft.WindowsAppSDK.Bootstrap.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\runtimes\lib\native\x86\Microsoft.WindowsAppSDK.Bootstrap.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\Microsoft.Windows.SDK.NET.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\WinRT.Runtime.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\PictureConverterHelper.deps.json
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\PictureConverterHelper.runtimeconfig.dev.json
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\App.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\MainWindow.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\Pages\Home.xbf
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\PictureConverterHelper.exe
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\PictureConverterHelper.runtimeconfig.json
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\PictureConverterHelper.dll
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper\PictureConverterHelper.pdb
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\resources.pri
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\AppxManifest.xml
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\bin\x64\Debug\PictureConverterHelper (Package).build.appxrecipe
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\PictureConverterHelper (Package).wapproj.AssemblyReference.cache
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\PictureConverterHelper (Package).wapproj.CoreCompileInputs.cache
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\PictureConverterHelper.pri.xml
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\priconfig.xml
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\priconfig.xml.intermediate
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\unfiltered.layout.resfiles
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\filtered.layout.resfiles
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\excluded.layout.resfiles
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\resources.resfiles
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\resources.resfiles.intermediate
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\pri.resfiles
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\pri.resfiles.intermediate
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\qualifiers.txt
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\qualifiers.txt.intermediate
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\ProjectArchitectures.txt
+D:\WXG_Projects\ImageConverterHelper\PictureConverterHelper\PictureConverterHelper (Package)\obj\x64\Debug\PictureConverterHelper (Package).wapproj.LastBuild.txt
